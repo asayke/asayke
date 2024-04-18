@@ -7,7 +7,7 @@ I am a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/asaykegod)
+- :mailbox:How to reach me: [![](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/asaykev)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
